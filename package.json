@@ -8,10 +8,10 @@
   "description": "mobile web UI on Vue",
   "repository": {
     "type": "git",
-    "url": "https://github.com/wclimb/wat"
+    "url": "https://github.com/wat-ui/wat"
   },
   "bugs": {
-    "url": "https://github.com/wclimb/wat/issues"
+    "url": "https://github.com/wat-ui/wat/issues"
   },
   "keywords": ["wat", "wat-ui", "vue", "components", "ui"],
   "scripts": {
